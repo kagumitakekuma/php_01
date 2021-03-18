@@ -31,7 +31,7 @@ if($select===$answer){
 <?php echo $result; ?>
     
      <form method="POST" action="index2.php">
-<button　class="answerb">次へ</button>
+<button class="answerb">次へ</button>
      </form>
 <footer>◆bakarizumuquiz◆</footer>  
   </body>
